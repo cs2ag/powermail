@@ -88,6 +88,7 @@
 					<settings.flexform.main.pid>
 						<TCEforms>
 							<label>LLL:EXT:powermail/Resources/Private/Language/locallang_db.xml:flexform.main.pid</label>
+							<exclude>1</exclude>
 							<config>
 								<type>group</type>
 								<internal_type>db</internal_type>

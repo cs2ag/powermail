@@ -58,6 +58,7 @@
 					<settings.flexform.main.confirmation>
 						<TCEforms>
 							<label>LLL:EXT:powermail/Resources/Private/Language/locallang_db.xml:flexform.main.confirmation</label>
+							<exclude>1</exclude>
 							<config>
 								<type>check</type>
 								<default>0</default>
@@ -67,6 +68,7 @@
 					<settings.flexform.main.optin>
 						<TCEforms>
 							<label>LLL:EXT:powermail/Resources/Private/Language/locallang_db.xml:flexform.main.optin</label>
+							<exclude>1</exclude>
 							<config>
 								<type>check</type>
 								<default>0</default>
@@ -76,6 +78,7 @@
 					<settings.flexform.main.moresteps>
 						<TCEforms>
 							<label>LLL:EXT:powermail/Resources/Private/Language/locallang_db.xml:flexform.main.moresteps</label>
+							<exclude>1</exclude>
 							<config>
 								<type>check</type>
 								<default>0</default>
@@ -128,6 +131,7 @@
 					<settings.flexform.receiver.fe_group>
 						<TCEforms>
 							<label>LLL:EXT:powermail/Resources/Private/Language/locallang_db.xml:flexform.receiver.fe_group</label>
+							<exclude>1</exclude>
 							<config>
 								<type>select</type>
 								<items type="array">
